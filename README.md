@@ -6,6 +6,7 @@
     - https://stackoverflow.com/questions/2391679/why-do-we-need-virtual-functions-in-c
     - https://github.com/flin3500/Cuda-Google-Colab
     - https://stackoverflow.com/questions/36012289/what-is-the-role-of-cudadevicereset-in-cuda
+    - https://stackoverflow.com/questions/41307756/fatal-error-cuda-h-no-such-file-or-directory  
 
 ## FPGA resources
     - https://www.xilinx.com/products/silicon-devices/fpga/what-is-an-fpga.html
