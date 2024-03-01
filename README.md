@@ -1,5 +1,12 @@
 # Device-Accelerated-Conways-GoL
 
+## TO-DO
+    - CUDA: swap, char/int board
+    - CUDA: swap, bit board
+    - CUDA: syncronyze with regs
+
+    - Smart HLS: bit board
+
 ## Cuda resources
     - https://cuda-tutorial.readthedocs.io/en/latest/#cuda-tutorial
     - https://stackoverflow.com/questions/9846523/explanation-of-cuda-c-and-c
