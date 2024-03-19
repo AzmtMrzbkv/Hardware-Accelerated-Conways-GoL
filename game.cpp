@@ -5,9 +5,7 @@ int main(){
     char *grid, t;
 
     std::cin >> m >> n >> g;
-    g = n;
-    n = m;
-
+    
     grid = new char[m * n];
 
     for(int i = 0; i < m; ++i){
